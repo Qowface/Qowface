@@ -1,7 +1,10 @@
-### Hi, I'm Robert (@Qowface) 👋
+### Hi, I'm Robert 👋
+
 - 👀 I’m interested in web development and game development
 - 🌱 I’m currently learning Vue, Godot, and PICO-8 / Picotron
-- 📫 You can reach me on [Twitter (@Qowface)](https://twitter.com/Qowface) until its inevitable demise
+- 🔭 I'm currently working on [The Forbidden Flask](https://cowhammerstudios.itch.io/the-forbidden-flask)
+- 🕹️ My games are available at [qowface.itch.io](https://qowface.itch.io)
+- 📫 You can reach me on [Twitter (@Qowface)](https://twitter.com/Qowface) and [LinkedIn (in/robertmarquess)](https://www.linkedin.com/in/robertmarquess)
 
 <!--
 **Qowface/Qowface** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
