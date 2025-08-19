@@ -1,7 +1,7 @@
 ### Hi, I'm Robert 👋
 
 - 👀 I’m interested in web development and game development
-- 🌱 I’m currently learning Vue, Godot, and PICO-8 / Picotron
+- 🌱 I’m currently learning Godot, Vue, and Laravel
 - 🔭 I'm currently working on The Forbidden Flask, a medieval diner sim with roguelike elements
   - [Wishlist The Forbidden Flask on Steam](https://store.steampowered.com/app/3243410/The_Forbidden_Flask/)
 - 🕹️ My games (mostly jam entries) are available at [qowface.itch.io](https://qowface.itch.io)
